@@ -1,1 +1,2 @@
-# usmfrc2019
+# University School of Milwaukee | First Robotics Competition
+
