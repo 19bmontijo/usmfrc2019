@@ -1,0 +1,3 @@
+0,0,100,0
+Switch,Scale,Auto,Color
+../Lists/testList.txt
